@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650950573126",
+    "project_id": "baby-best-toy",
+    "storage_bucket": "baby-best-toy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650950573126:android:ed421dcd8c900bf1a91e47",
+        "android_client_info": {
+          "package_name": "com.babybesttoy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCDkdlFLwjNxnr2huCGXPzDJYRgS7FnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

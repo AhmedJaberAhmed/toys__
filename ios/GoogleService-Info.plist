@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>650950573126-8vhhmss6sqt92s8sl9gvjkrousu3s2e7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.650950573126-8vhhmss6sqt92s8sl9gvjkrousu3s2e7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>650950573126-ts3uv333hmia2h56lcdleq9irq2bnrht.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWt1_6BdBG3RqSs8v5vw6Tz5pjDtSGbXg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>650950573126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.babybesttoy.app</string>
+	<key>PROJECT_ID</key>
+	<string>baby-best-toy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baby-best-toy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:650950573126:ios:b42e6fa58a2be120a91e47</string>
+</dict>
+</plist>
